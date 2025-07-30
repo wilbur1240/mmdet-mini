@@ -2,6 +2,15 @@
 
 A minimal scaffolding for building MMDetection models.
 
+## Create environment
+
+```bash
+git clone git@github.com:wilbur1240/mmdet-mini.git
+cd mmdet-mini
+conda env create -n mmopenlab -f environment_full.yml
+conda activate mmopenlab
+```
+
 ## Structure
 
 - `configs/`: configuration templates
