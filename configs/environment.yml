@@ -1,8 +1,0 @@
-name: openmmlab
-channels:
-  - defaults
-dependencies:
-  - python=3.9
-  - torchvision
-  - pytorch
-prefix: /home/wilbur/miniconda3/envs/openmmlab
